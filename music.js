@@ -1,8 +1,8 @@
 /**
  * Generate a music playlist (PLS) from a directory of music files.
  *
- * Author: Alex TSANG <alextsang@live.com>
- * License: The 3-Clause BSD License
+ * @author Alex TSANG <alextsang@live.com>
+ * @license BSD-3-Clause
  */
 
 const fs = require('fs');
