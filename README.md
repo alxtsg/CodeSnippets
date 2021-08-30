@@ -11,6 +11,7 @@ A collection of code snippets.
 * `heic2jpeg.ps1`: Batch convert image files from HEIC to JPEG format. Requires
                    PowerShell Core 6 and ImageMagick.
 * `music.pls`: Music playlist (PLS) generation script.
+* `sort-tweet.js`: Tweets sorting script.
 
 ## License ##
 
